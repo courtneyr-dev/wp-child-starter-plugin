@@ -1,0 +1,86 @@
+# Copyright (C) 2014 Database Browser
+# This file is distributed under the same license as the Database Browser package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Database Browser 1.1.4\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/database-browser\n"
+"POT-Creation-Date: 2014-01-28 13:27:00+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-02-03 12:42+0100\n"
+"Last-Translator: jelena kovacevic <jecajeca260@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: Poedit 1.5.5\n"
+
+#: database-browser.php:78 database-browser.php:98
+msgid "Database browser"
+msgstr "Examinador de bases de datos"
+
+#: database-browser.php:122
+msgid "Table: %s"
+msgstr "Tabla: %s"
+
+#: database-browser.php:128
+msgid "Database error"
+msgstr "Error en base de datos"
+
+#: database-browser.php:138
+msgid "Where (click to toggle):"
+msgstr "Dónde (clic para cambiar):"
+
+#: database-browser.php:141
+msgid "Order by (click to toggle):"
+msgstr "Ordenar por (clic para cambiar):"
+
+#: database-browser.php:144
+msgid "Run where and order by clauses"
+msgstr "Ejecutar dónde y orden por cláusulas"
+
+#: database-browser.php:155
+msgid "No data was found in this table."
+msgstr "No se encontraron datos en esta tabla."
+
+#: database-browser.php:190 database-browser.php:200
+msgid "Select table"
+msgstr "Seleccionar tabla"
+
+#: database-browser.php:210
+msgid "Query performed (click to toggle):"
+msgstr "Búsqueda realizada (clic para cambiar):"
+
+#: database-browser.php:213
+msgid "Run query"
+msgstr "Ejecutar búsqueda"
+
+#: pagination.class.php:60
+msgid "&laquo;"
+msgstr "&laquo;"
+
+#: pagination.class.php:61
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#. Plugin Name of the plugin/theme
+msgid "Database Browser"
+msgstr "Examinador de Bases de Datos"
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.stillbreathing.co.uk/wordpress/database-browser/"
+msgstr "http://www.stillbreathing.co.uk/wordpress/database-browser/"
+
+#. Description of the plugin/theme
+msgid ""
+"Easily browse the data in your database, and download in CSV, XML and JSON "
+"format"
+msgstr ""
+"Examine fácilmente los datos en su base de datos, y descargue en formato "
+"CSV, XML y JSON"
+
+#. Author of the plugin/theme
+msgid "Chris Taylor"
+msgstr "Chris Taylor"
+
+#. Author URI of the plugin/theme
+msgid "http://www.stillbreathing.co.uk/"
+msgstr "http://www.stillbreathing.co.uk/"

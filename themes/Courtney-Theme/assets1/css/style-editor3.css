@@ -1,0 +1,45 @@
+@charset "UTF-8";
+
+/**
+ * These styles should be loaded by the Block Editor only
+ */
+
+/* Variables */
+
+
+
+.editor-styles-wrapper .wp-block.editor-post-title__block .editor-post-title__input {
+	font-family: 'Dancing Script', cursive !important;
+}
+
+.editor-styles-wrapper .wp-block {
+    font-family: 'Roboto', sans-serif !important;
+}
+
+.editor-styles-wrapper .wp-block-heading, .editor-styles-wrapper, .editor-styles-wrapper .h1 .h2 .h3 .h4 .h5 .h6 {
+	font-family: 'Dancing Script', cursive !important;
+}
+
+:root {
+
+	 /* Font Family */
+	 --global--font-primary: 'Dancing Script', cursive;
+	 --global--font-secondary: 'Roboto', sans-serif;
+ 
+ 
+	 /* Colors */
+	 --global--color-black: #000;
+	 --global--color-dark-gray: #414141;
+	 --global--color-gray: #39414d;
+	 --global--color-light-gray: #f0f0f0;
+	 --global--color-green: #cde5f2;
+	 --global--color-blue: #a99c90;
+	 --global--color-purple: #d8cef2;
+	 --global--color-red: #9790a9;
+	 --global--color-orange: #f2dfcd;
+	 --global--color-yellow: #FFFFF0;
+	 --global--color-white: #fff;
+	 --global--color-white-50: rgba(255, 255, 255, 0.5); // Used for disabled buttons
+	 --global--color-white-90: rgba(255, 255, 255, 0.9); // Used in form fields.
+
+}

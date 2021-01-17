@@ -1,0 +1,10 @@
+*, *:before  {
+	background: #1E90FF	!important;
+	color: #87CEFA	!important;
+	font-weight: bold!important;	
+}
+
+
+#wpadminbar, #wpadminbar *, #wpadminbar *:before {
+	background: #483D8B!important;
+}

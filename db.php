@@ -1,0 +1,1 @@
+/Users/courtney/Local Sites/wp56/app/public/wp-content/plugins/query-monitor/wp-content/db.php
